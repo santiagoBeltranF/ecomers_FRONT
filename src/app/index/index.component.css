@@ -1,0 +1,10 @@
+.contenedor {
+    background-image: url("../../assets/imagenes/index.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
